@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+# Backup files never belong in git
+*-backup*.json
+tsconfig.tsbuildinfo
+# Private notes about this household (names, amounts). Never pushed.
+CLAUDE.local.md
